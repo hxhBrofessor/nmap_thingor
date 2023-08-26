@@ -1,5 +1,5 @@
 '''
-Author: Bryan (hxhBroFessor)
+Author: hxhBroFessor
 Purpose: This repository contains a Python script designed to automate the process of running Nmap scans. 
           The script first performs a host discovery and then conducts a detailed port scan for each discovered host.
 '''
